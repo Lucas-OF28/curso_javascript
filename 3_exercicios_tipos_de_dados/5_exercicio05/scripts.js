@@ -1,0 +1,1 @@
+console.log("asdas" * 8)

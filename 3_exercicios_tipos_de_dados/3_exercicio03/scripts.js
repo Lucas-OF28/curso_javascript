@@ -1,0 +1,5 @@
+console.log(3 > 5)
+console.log(3 < 5)
+console.log(10 != 10)
+console.log(10 == 9 || 10 == 10)
+console.log("Lucas" == "Lucas" || 5 == 4 )
