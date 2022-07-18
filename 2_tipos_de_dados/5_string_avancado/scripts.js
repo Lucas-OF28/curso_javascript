@@ -1,0 +1,5 @@
+console.log("Primeira linha \n Segunda linha")
+console.log("O meu nome é 'Lucas'") 
+console.log("O nome dela é Emilia")
+console.log(`A multiplicação de 2 por 2 é ${2*2}`)
+console.log("O " + "meu " + "nome " + "é " + "Lucas.")
