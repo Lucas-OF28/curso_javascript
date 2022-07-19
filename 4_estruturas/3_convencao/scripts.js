@@ -1,0 +1,6 @@
+let nome3 = "Lucas"
+let $nome = "Alo"
+let _nome = "Teste"
+// let 3nome = "Macaco"
+// let @nome = "Alo 2 "
+// let !nome =  "Alo 3 "  
